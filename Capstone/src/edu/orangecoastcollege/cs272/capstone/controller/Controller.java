@@ -15,6 +15,7 @@ public class Controller {
 
 	private static final String DB_NAME = "occ_recycling.db";
 
+
 	// For Customer Table
 	private static final String CUSTOMER_TABLE_NAME = "customer";
 	private static final String[] CUSTOMER_FIELD_NAMES = {"_id", "name",  "user", "role", "email"};
