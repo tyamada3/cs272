@@ -46,6 +46,7 @@ public class DBModel {
 		stmt.executeUpdate(createSQL.toString());
 		}
 
+
 	}
 
 	public ArrayList<ArrayList<String>> getAllRecords() throws SQLException {
